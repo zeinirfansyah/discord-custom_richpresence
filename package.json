@@ -1,0 +1,14 @@
+{
+  "name": "discord_richpresence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./src/app.js"
+  },
+  "author": "Zein Irfansyah",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
